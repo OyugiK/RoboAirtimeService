@@ -1,0 +1,304 @@
+2018-05-11 08:59:53,568 - AIRTIME - INFO - **** Starting AIRTIME Service *****2018-05-11 08:59:53.568710
+2018-05-11 08:59:53,569 - AIRTIME - DEBUG - sending airtime for msisdn = +254***123456
+2018-05-11 08:59:53,570 - AIRTIME - DEBUG - amount = 250
+2018-05-11 08:59:54,303 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 08:59:54,304 - AIRTIME - DEBUG - sending airtime for msisdn = +254***111222
+2018-05-11 08:59:54,304 - AIRTIME - DEBUG - amount = 35
+2018-05-11 08:59:55,013 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 08:59:55,013 - AIRTIME - DEBUG - sending airtime for msisdn = +254***333444
+2018-05-11 08:59:55,081 - AIRTIME - DEBUG - amount = 455
+2018-05-11 08:59:55,811 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 08:59:55,811 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888222
+2018-05-11 08:59:55,811 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 08:59:56,520 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 08:59:56,521 - AIRTIME - DEBUG - sending airtime for msisdn = +254***555444
+2018-05-11 08:59:56,521 - AIRTIME - DEBUG - amount = 78.78
+2018-05-11 08:59:57,289 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 08:59:57,289 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 08:59:57,289 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 08:59:58,036 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 08:59:58,037 - AIRTIME - DEBUG - sending airtime for msisdn = +254***767876
+2018-05-11 08:59:58,037 - AIRTIME - DEBUG - amount = 666
+2018-05-11 08:59:58,776 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 08:59:58,776 - AIRTIME - DEBUG - sending airtime for msisdn = +254***100333
+2018-05-11 08:59:58,776 - AIRTIME - DEBUG - amount = 1oo
+2018-05-11 09:00:00,487 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '100333'
+2018-05-11 09:00:00,487 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 09:00:00,488 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 09:00:01,695 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:00:01,696 - AIRTIME - DEBUG - sending airtime for msisdn = +254***343222
+2018-05-11 09:00:01,696 - AIRTIME - DEBUG - amount = 12500
+2018-05-11 09:00:02,408 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '343222'
+2018-05-11 09:00:02,408 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888932
+2018-05-11 09:00:02,408 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 09:00:03,140 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:00:03,141 - AIRTIME - DEBUG - sending airtime for msisdn = +254***389765
+2018-05-11 09:00:03,141 - AIRTIME - DEBUG - amount = 6Y8
+2018-05-11 09:00:03,832 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '389765'
+2018-05-11 09:00:03,832 - AIRTIME - INFO - **** Stopping AIRTIME Service *****2018-05-11 08:59:53.568710
+2018-05-11 09:04:07,624 - AIRTIME - INFO - **** Starting AIRTIME Service *****2018-05-11 09:04:07.624630
+2018-05-11 09:04:07,625 - AIRTIME - DEBUG - sending airtime for msisdn = +254***123456
+2018-05-11 09:04:07,625 - AIRTIME - DEBUG - amount = 250
+2018-05-11 09:04:08,389 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:04:08,389 - AIRTIME - DEBUG - sending airtime for msisdn = +254***111222
+2018-05-11 09:04:08,389 - AIRTIME - DEBUG - amount = 35
+2018-05-11 09:04:09,812 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:04:09,812 - AIRTIME - DEBUG - sending airtime for msisdn = +254***333444
+2018-05-11 09:04:09,812 - AIRTIME - DEBUG - amount = 455
+2018-05-11 09:04:11,603 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '333444'
+2018-05-11 09:04:11,604 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888222
+2018-05-11 09:04:11,604 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 09:04:12,324 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '888222'
+2018-05-11 09:04:12,324 - AIRTIME - DEBUG - sending airtime for msisdn = +254***555444
+2018-05-11 09:04:12,324 - AIRTIME - DEBUG - amount = 78.78
+2018-05-11 09:04:13,012 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:04:13,012 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 09:04:13,012 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 09:04:13,693 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:04:13,694 - AIRTIME - DEBUG - sending airtime for msisdn = +254***767876
+2018-05-11 09:04:13,694 - AIRTIME - DEBUG - amount = 666
+2018-05-11 09:04:15,385 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:04:15,386 - AIRTIME - DEBUG - sending airtime for msisdn = +254***100333
+2018-05-11 09:04:15,386 - AIRTIME - DEBUG - amount = 1oo
+2018-05-11 09:04:16,418 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '100333'
+2018-05-11 09:04:16,418 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 09:04:16,418 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 09:04:17,153 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '666434'
+2018-05-11 09:04:17,153 - AIRTIME - DEBUG - sending airtime for msisdn = +254***343222
+2018-05-11 09:04:17,153 - AIRTIME - DEBUG - amount = 12500
+2018-05-11 09:04:17,877 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '343222'
+2018-05-11 09:04:17,880 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888932
+2018-05-11 09:04:17,880 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 09:04:18,708 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:04:18,708 - AIRTIME - DEBUG - sending airtime for msisdn = +254***389765
+2018-05-11 09:04:18,708 - AIRTIME - DEBUG - amount = 6Y8
+2018-05-11 09:04:19,462 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '389765'
+2018-05-11 09:04:19,462 - AIRTIME - INFO - **** Stopping AIRTIME Service *****2018-05-11 09:04:07.624630
+2018-05-11 09:04:38,480 - AIRTIME - INFO - **** Starting AIRTIME Service *****2018-05-11 09:04:38.480449
+2018-05-11 09:04:38,480 - AIRTIME - DEBUG - sending airtime for msisdn = +254***123456
+2018-05-11 09:04:38,481 - AIRTIME - DEBUG - amount = 250
+2018-05-11 09:04:39,231 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '123456'
+2018-05-11 09:04:39,231 - AIRTIME - DEBUG - sending airtime for msisdn = +254***111222
+2018-05-11 09:04:39,231 - AIRTIME - DEBUG - amount = 35
+2018-05-11 09:04:39,951 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '111222'
+2018-05-11 09:04:39,951 - AIRTIME - DEBUG - sending airtime for msisdn = +254***333444
+2018-05-11 09:04:39,952 - AIRTIME - DEBUG - amount = 455
+2018-05-11 09:04:40,664 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:04:40,664 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888222
+2018-05-11 09:04:40,664 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 09:04:41,414 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:04:41,415 - AIRTIME - DEBUG - sending airtime for msisdn = +254***555444
+2018-05-11 09:04:41,415 - AIRTIME - DEBUG - amount = 78.78
+2018-05-11 09:04:42,210 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '555444'
+2018-05-11 09:04:42,211 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 09:04:42,211 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 09:04:43,928 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:04:43,928 - AIRTIME - DEBUG - sending airtime for msisdn = +254***767876
+2018-05-11 09:04:43,928 - AIRTIME - DEBUG - amount = 666
+2018-05-11 09:04:44,669 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '767876'
+2018-05-11 09:04:44,669 - AIRTIME - DEBUG - sending airtime for msisdn = +254***100333
+2018-05-11 09:04:44,670 - AIRTIME - DEBUG - amount = 1oo
+2018-05-11 09:04:45,407 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '100333'
+2018-05-11 09:04:45,408 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 09:04:45,408 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 09:04:46,227 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:04:46,227 - AIRTIME - DEBUG - sending airtime for msisdn = +254***343222
+2018-05-11 09:04:46,227 - AIRTIME - DEBUG - amount = 12500
+2018-05-11 09:04:46,925 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '343222'
+2018-05-11 09:04:46,926 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888932
+2018-05-11 09:04:46,926 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 09:04:47,699 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '888932'
+2018-05-11 09:04:47,702 - AIRTIME - DEBUG - sending airtime for msisdn = +254***389765
+2018-05-11 09:04:47,702 - AIRTIME - DEBUG - amount = 6Y8
+2018-05-11 09:04:48,460 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '389765'
+2018-05-11 09:04:48,460 - AIRTIME - INFO - **** Stopping AIRTIME Service *****2018-05-11 09:04:38.480449
+2018-05-11 09:10:33,412 - AIRTIME - INFO - **** Starting AIRTIME Service *****2018-05-11 09:10:33.412024
+2018-05-11 09:10:33,412 - AIRTIME - DEBUG - sending airtime for msisdn = +254***123456
+2018-05-11 09:10:33,412 - AIRTIME - DEBUG - amount = 250
+2018-05-11 09:10:34,309 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '123456'
+2018-05-11 09:10:34,309 - AIRTIME - DEBUG - sending airtime for msisdn = +254***111222
+2018-05-11 09:10:34,309 - AIRTIME - DEBUG - amount = 35
+2018-05-11 09:10:35,064 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '111222'
+2018-05-11 09:10:35,065 - AIRTIME - DEBUG - sending airtime for msisdn = +254***333444
+2018-05-11 09:10:35,065 - AIRTIME - DEBUG - amount = 455
+2018-05-11 09:10:36,538 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '333444'
+2018-05-11 09:10:36,538 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888222
+2018-05-11 09:10:36,539 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 09:10:38,464 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '888222'
+2018-05-11 09:10:38,464 - AIRTIME - DEBUG - sending airtime for msisdn = +254***555444
+2018-05-11 09:10:38,464 - AIRTIME - DEBUG - amount = 78.78
+2018-05-11 09:10:39,968 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '555444'
+2018-05-11 09:10:39,968 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 09:10:39,968 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 09:10:41,421 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '666434'
+2018-05-11 09:10:41,421 - AIRTIME - DEBUG - sending airtime for msisdn = +254***767876
+2018-05-11 09:10:41,421 - AIRTIME - DEBUG - amount = 666
+2018-05-11 09:10:42,679 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '767876'
+2018-05-11 09:10:42,679 - AIRTIME - DEBUG - sending airtime for msisdn = +254***100333
+2018-05-11 09:10:42,679 - AIRTIME - DEBUG - amount = 1oo
+2018-05-11 09:10:43,480 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '100333'
+2018-05-11 09:10:43,480 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 09:10:43,480 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 09:10:44,250 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:10:44,251 - AIRTIME - DEBUG - sending airtime for msisdn = +254***343222
+2018-05-11 09:10:44,251 - AIRTIME - DEBUG - amount = 12500
+2018-05-11 09:10:45,013 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '343222'
+2018-05-11 09:10:45,013 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888932
+2018-05-11 09:10:45,013 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 09:10:46,959 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '888932'
+2018-05-11 09:10:46,959 - AIRTIME - DEBUG - sending airtime for msisdn = +254***389765
+2018-05-11 09:10:46,959 - AIRTIME - DEBUG - amount = 6Y8
+2018-05-11 09:10:47,701 - AIRTIME - CRITICAL - Encountered an error while sending airtime: '389765'
+2018-05-11 09:10:47,703 - AIRTIME - INFO - **** Stopping AIRTIME Service *****2018-05-11 09:10:33.412024
+2018-05-11 09:16:16,431 - AIRTIME - INFO - **** Starting AIRTIME Service *****2018-05-11 09:16:16.431608
+2018-05-11 09:16:16,432 - AIRTIME - DEBUG - sending airtime for msisdn = +254***123456
+2018-05-11 09:16:16,432 - AIRTIME - DEBUG - amount = 250
+2018-05-11 09:16:17,356 - AIRTIME - DEBUG - phoneNumber=+254700123456; amount=KES 250.0000; status=Sent; discount=KES 10.0000; requestId=ATQid_94b08c5ecfb0e1e3637033875c5a14e7
+2018-05-11 09:16:17,358 - AIRTIME - DEBUG - sending airtime for msisdn = +254***111222
+2018-05-11 09:16:17,358 - AIRTIME - DEBUG - amount = 35
+2018-05-11 09:16:18,176 - AIRTIME - DEBUG - phoneNumber=+254700111222; amount=KES 35.0000; status=Sent; discount=KES 1.4000; requestId=ATQid_376456b886fb61b43282b6dd549fbb9e
+2018-05-11 09:16:18,176 - AIRTIME - DEBUG - sending airtime for msisdn = +254***333444
+2018-05-11 09:16:18,176 - AIRTIME - DEBUG - amount = 455
+2018-05-11 09:16:19,310 - AIRTIME - DEBUG - phoneNumber=+254700333444; amount=KES 455.0000; status=Sent; discount=KES 18.2000; requestId=ATQid_d51e0c13373c2895c7a583aa31fd53e5
+2018-05-11 09:16:19,310 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888222
+2018-05-11 09:16:19,310 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 09:16:21,255 - AIRTIME - DEBUG - phoneNumber=+254700888222; amount=KES 38.6700; status=Sent; discount=KES 1.5468; requestId=ATQid_0ea18faed05a87e04992328c41ab3fa6
+2018-05-11 09:16:21,256 - AIRTIME - DEBUG - sending airtime for msisdn = +254***555444
+2018-05-11 09:16:21,256 - AIRTIME - DEBUG - amount = 78.78
+2018-05-11 09:16:22,159 - AIRTIME - DEBUG - phoneNumber=+254700555444; amount=KES 78.7800; status=Sent; discount=KES 3.1512; requestId=ATQid_1de6722c6213f2909210d561b5ea00b2
+2018-05-11 09:16:22,160 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 09:16:22,160 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 09:16:23,115 - AIRTIME - DEBUG - phoneNumber=+254700666434; amount=KES 10000.0000; status=Sent; discount=KES 400.0000; requestId=ATQid_888b9d04b34e3bbc3309f538ac3beadc
+2018-05-11 09:16:23,116 - AIRTIME - DEBUG - sending airtime for msisdn = +254***767876
+2018-05-11 09:16:23,116 - AIRTIME - DEBUG - amount = 666
+2018-05-11 09:16:24,167 - AIRTIME - DEBUG - phoneNumber=+254700767876; amount=KES 666.0000; status=Sent; discount=KES 26.6400; requestId=ATQid_b622f7736abd8b9eae6ceddc9995e78c
+2018-05-11 09:16:24,167 - AIRTIME - DEBUG - sending airtime for msisdn = +254***100333
+2018-05-11 09:16:24,167 - AIRTIME - DEBUG - amount = 1oo
+2018-05-11 09:16:24,862 - AIRTIME - DEBUG - phoneNumber=+254700100333; amount=0; status=Failed; discount=0; requestId=None
+2018-05-11 09:16:24,862 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 09:16:24,862 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 09:16:28,750 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:16:28,751 - AIRTIME - DEBUG - sending airtime for msisdn = +254***343222
+2018-05-11 09:16:28,751 - AIRTIME - DEBUG - amount = 12500
+2018-05-11 09:16:30,245 - AIRTIME - DEBUG - phoneNumber=+254700343222; amount=KES 12500.0000; status=Failed; discount=0; requestId=None
+2018-05-11 09:16:30,245 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888932
+2018-05-11 09:16:30,246 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 09:16:31,176 - AIRTIME - DEBUG - phoneNumber=+254700888932; amount=KES 38.6700; status=Sent; discount=KES 1.5468; requestId=ATQid_b5be087d782ac7f27dc762d13179d894
+2018-05-11 09:16:31,177 - AIRTIME - DEBUG - sending airtime for msisdn = +254***389765
+2018-05-11 09:16:31,177 - AIRTIME - DEBUG - amount = 6Y8
+2018-05-11 09:16:31,878 - AIRTIME - DEBUG - phoneNumber=+254700389765; amount=0; status=Failed; discount=0; requestId=None
+2018-05-11 09:16:31,879 - AIRTIME - INFO - **** Stopping AIRTIME Service *****2018-05-11 09:16:16.431608
+2018-05-11 09:21:04,989 - AIRTIME - INFO - **** Starting AIRTIME Service *****2018-05-11 09:21:04.989394
+2018-05-11 09:21:04,989 - AIRTIME - DEBUG - sending airtime for msisdn = +254***123456
+2018-05-11 09:21:04,989 - AIRTIME - DEBUG - amount = 250
+2018-05-11 09:21:06,464 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:21:06,465 - AIRTIME - DEBUG - sending airtime for msisdn = +254***111222
+2018-05-11 09:21:06,465 - AIRTIME - DEBUG - amount = 35
+2018-05-11 09:21:09,902 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:21:09,902 - AIRTIME - DEBUG - sending airtime for msisdn = +254***333444
+2018-05-11 09:21:09,902 - AIRTIME - DEBUG - amount = 455
+2018-05-11 09:21:10,643 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:21:10,643 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888222
+2018-05-11 09:21:10,644 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 09:21:11,486 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:21:11,486 - AIRTIME - DEBUG - sending airtime for msisdn = +254***555444
+2018-05-11 09:21:11,486 - AIRTIME - DEBUG - amount = 78.78
+2018-05-11 09:21:12,329 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:21:12,329 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 09:21:12,329 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 09:21:13,079 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:21:13,079 - AIRTIME - DEBUG - sending airtime for msisdn = +254***767876
+2018-05-11 09:21:13,079 - AIRTIME - DEBUG - amount = 666
+2018-05-11 09:21:13,841 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:21:13,841 - AIRTIME - DEBUG - sending airtime for msisdn = +254***100333
+2018-05-11 09:21:13,841 - AIRTIME - DEBUG - amount = 1oo
+2018-05-11 09:21:14,770 - AIRTIME - DEBUG - phoneNumber=+254700100333; amount=0; status=Failed; discount=0; requestId=None
+2018-05-11 09:21:14,772 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 09:21:14,772 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 09:21:17,188 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:21:17,188 - AIRTIME - DEBUG - sending airtime for msisdn = +254***343222
+2018-05-11 09:21:17,188 - AIRTIME - DEBUG - amount = 12500
+2018-05-11 09:21:18,043 - AIRTIME - DEBUG - phoneNumber=+254700343222; amount=KES 12500.0000; status=Failed; discount=0; requestId=None
+2018-05-11 09:21:18,046 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888932
+2018-05-11 09:21:18,046 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 09:21:19,316 - AIRTIME - CRITICAL - Encountered an error while sending airtime: A duplicate request was received within the last 5 minutes
+2018-05-11 09:21:19,316 - AIRTIME - DEBUG - sending airtime for msisdn = +254***389765
+2018-05-11 09:21:19,316 - AIRTIME - DEBUG - amount = 6Y8
+2018-05-11 09:21:20,122 - AIRTIME - DEBUG - phoneNumber=+254700389765; amount=0; status=Failed; discount=0; requestId=None
+2018-05-11 09:21:20,122 - AIRTIME - INFO - **** Stopping AIRTIME Service *****2018-05-11 09:21:04.989394
+2018-05-11 09:31:21,324 - AIRTIME - INFO - **** Starting AIRTIME Service *****2018-05-11 09:31:21.324871
+2018-05-11 09:31:21,325 - AIRTIME - DEBUG - sending airtime for msisdn = +254***123456
+2018-05-11 09:31:21,326 - AIRTIME - DEBUG - amount = 250
+2018-05-11 09:31:51,348 - AIRTIME - CRITICAL - Encountered an error while sending airtime: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2018-05-11 09:31:51,348 - AIRTIME - DEBUG - sending airtime for msisdn = +254***111222
+2018-05-11 09:31:51,348 - AIRTIME - DEBUG - amount = 35
+2018-05-11 09:31:54,219 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:31:54,219 - AIRTIME - DEBUG - sending airtime for msisdn = +254***333444
+2018-05-11 09:31:54,219 - AIRTIME - DEBUG - amount = 455
+2018-05-11 09:31:55,439 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:31:55,439 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888222
+2018-05-11 09:31:55,439 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 09:31:58,046 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:31:58,046 - AIRTIME - DEBUG - sending airtime for msisdn = +254***555444
+2018-05-11 09:31:58,046 - AIRTIME - DEBUG - amount = 78.78
+2018-05-11 09:32:03,371 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:32:03,371 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 09:32:03,371 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 09:32:04,253 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:32:04,253 - AIRTIME - DEBUG - sending airtime for msisdn = +254***767876
+2018-05-11 09:32:04,254 - AIRTIME - DEBUG - amount = 666
+2018-05-11 09:32:05,368 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:32:05,368 - AIRTIME - DEBUG - sending airtime for msisdn = +254***100333
+2018-05-11 09:32:05,369 - AIRTIME - DEBUG - amount = 1oo
+2018-05-11 09:32:06,297 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:32:06,297 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 09:32:06,298 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 09:32:07,660 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:32:07,660 - AIRTIME - DEBUG - sending airtime for msisdn = +254***343222
+2018-05-11 09:32:07,660 - AIRTIME - DEBUG - amount = 12500
+2018-05-11 09:32:08,470 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:32:08,470 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888932
+2018-05-11 09:32:08,470 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 09:32:09,588 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:32:09,588 - AIRTIME - DEBUG - sending airtime for msisdn = +254***389765
+2018-05-11 09:32:09,588 - AIRTIME - DEBUG - amount = 6Y8
+2018-05-11 09:32:10,657 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:32:10,657 - AIRTIME - INFO - **** Stopping AIRTIME Service *****2018-05-11 09:31:21.324871
+2018-05-11 09:37:04,762 - AIRTIME - INFO - **** Starting AIRTIME Service *****2018-05-11 09:37:04.762462
+2018-05-11 09:37:04,762 - AIRTIME - DEBUG - sending airtime for msisdn = +254***123456
+2018-05-11 09:37:04,763 - AIRTIME - DEBUG - amount = 250
+2018-05-11 09:37:07,600 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:37:07,600 - AIRTIME - DEBUG - sending airtime for msisdn = +254***111222
+2018-05-11 09:37:07,601 - AIRTIME - DEBUG - amount = 35
+2018-05-11 09:37:08,850 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:37:08,850 - AIRTIME - DEBUG - sending airtime for msisdn = +254***333444
+2018-05-11 09:37:08,850 - AIRTIME - DEBUG - amount = 455
+2018-05-11 09:37:09,750 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:37:09,750 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888222
+2018-05-11 09:37:09,750 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 09:37:10,740 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:37:10,741 - AIRTIME - DEBUG - sending airtime for msisdn = +254***555444
+2018-05-11 09:37:10,741 - AIRTIME - DEBUG - amount = 78.78
+2018-05-11 09:37:11,768 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:37:11,768 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 09:37:11,768 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 09:37:13,142 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:37:13,142 - AIRTIME - DEBUG - sending airtime for msisdn = +254***767876
+2018-05-11 09:37:13,142 - AIRTIME - DEBUG - amount = 666
+2018-05-11 09:37:14,644 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:37:14,644 - AIRTIME - DEBUG - sending airtime for msisdn = +254***100333
+2018-05-11 09:37:14,644 - AIRTIME - DEBUG - amount = 1oo
+2018-05-11 09:37:15,545 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:37:15,545 - AIRTIME - DEBUG - sending airtime for msisdn = +254***666434
+2018-05-11 09:37:15,545 - AIRTIME - DEBUG - amount = 10000
+2018-05-11 09:37:16,338 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:37:16,338 - AIRTIME - DEBUG - sending airtime for msisdn = +254***343222
+2018-05-11 09:37:16,338 - AIRTIME - DEBUG - amount = 12500
+2018-05-11 09:37:18,511 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:37:18,514 - AIRTIME - DEBUG - sending airtime for msisdn = +254***888932
+2018-05-11 09:37:18,514 - AIRTIME - DEBUG - amount = 38.67
+2018-05-11 09:37:19,485 - AIRTIME - CRITICAL - Encountered an error while sending airtime: The supplied authentication is invalid
+2018-05-11 09:37:19,485 - AIRTIME - DEBUG - sending airtime for msisdn = +254***389765
+2018-05-11 09:37:19,485 - AIRTIME - DEBUG - amount = 6Y8
+2018-05-11 09:37:32,657 - AIRTIME - CRITICAL - Encountered an error while sending airtime: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:590)>
+2018-05-11 09:37:32,657 - AIRTIME - INFO - **** Stopping AIRTIME Service *****2018-05-11 09:37:04.762462
